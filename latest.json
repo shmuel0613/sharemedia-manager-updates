@@ -1,0 +1,7 @@
+{
+ "version": 2,
+ "patch": "SMPatch.zip",
+ "sha256": "778d278c59c4a1056f29f4897bcd1e2c51a56be00361a54e30e0c252704e5321",
+ "sig": "7f73a0f9991a69fd51d95f7180942a697543aa22891d49b73e15969c231e2a74172f628af5fad81c8ca4a39c2f342aaad0d3a2bbb0efab864f3d33a8ea268203",
+ "notes": "Signed updates are now on. Login check and update tools."
+}
