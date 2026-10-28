@@ -1,7 +1,7 @@
 {
- "version": 4,
+ "version": 5,
  "patch": "SMPatch.zip",
- "sha256": "e32fba13132ea19dc5338057b68abc25c64f5cf1c9de986b4ae006fa18c3290b",
- "sig": "9d19aae6eaf29bb0c08ebc2dfbf7cbd98dee537248ebf6df8924162e87c91bb6da4acaac8ae909cb488e70135c1eba6319867055cb4667760334b08fe798f00d",
- "notes": "Updates are checked every 15 minutes"
+ "sha256": "bbccad3727d614cb51e486a7638fe393bd2601f756c4d81870c8817b494ea32b",
+ "sig": "91611f2167eb3c41642fdf41112cfad4148860d6b10580fdcf3aef92af8ee39c477f3731a62ced54d0072fe9cd371a881a15b3de635b118da95f66819ea9ae0b",
+ "notes": "Edit client is now a normal page"
 }
