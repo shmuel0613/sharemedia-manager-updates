@@ -1,7 +1,7 @@
 {
- "version": 5,
+ "version": 6,
  "patch": "SMPatch.zip",
- "sha256": "bbccad3727d614cb51e486a7638fe393bd2601f756c4d81870c8817b494ea32b",
- "sig": "91611f2167eb3c41642fdf41112cfad4148860d6b10580fdcf3aef92af8ee39c477f3731a62ced54d0072fe9cd371a881a15b3de635b118da95f66819ea9ae0b",
- "notes": "Edit client is now a normal page"
+ "sha256": "4f4bff57ac7c9132868423d4e39df5fdde30a2ba8901f1281e1d572c26bebf65",
+ "sig": "203752008678c0e6ac18acc048c3b735de9819fc609765177de52afcd99447eb5debc6e776de25c009abf48f67919e2bad022670c14a05d2a3da8bda7d112803",
+ "notes": "Add client and Import clients now live on the Clients page only; simpler new-client form (company page address is cleaned up automatically, profile box removed, login starts right after saving)."
 }
