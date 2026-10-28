@@ -1,7 +1,7 @@
 {
- "version": 3,
+ "version": 4,
  "patch": "SMPatch.zip",
- "sha256": "c917db8312da3b116130bfe2b750a5f74de07ec06c778e321a72dff823629219",
- "sig": "de734b49fe254fe1100f49551e68b5d8a2eee6c7272590d85007bba03b0d4075a8d7ec2e079e44d0b9ab22809cec81e8de16c5bf035d237d1deb48cdbedfef03",
- "notes": "Updates now install by themselves"
+ "sha256": "e32fba13132ea19dc5338057b68abc25c64f5cf1c9de986b4ae006fa18c3290b",
+ "sig": "9d19aae6eaf29bb0c08ebc2dfbf7cbd98dee537248ebf6df8924162e87c91bb6da4acaac8ae909cb488e70135c1eba6319867055cb4667760334b08fe798f00d",
+ "notes": "Updates are checked every 15 minutes"
 }
