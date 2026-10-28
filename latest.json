@@ -1,7 +1,7 @@
 {
- "version": 6,
+ "version": 7,
  "patch": "SMPatch.zip",
- "sha256": "4f4bff57ac7c9132868423d4e39df5fdde30a2ba8901f1281e1d572c26bebf65",
- "sig": "203752008678c0e6ac18acc048c3b735de9819fc609765177de52afcd99447eb5debc6e776de25c009abf48f67919e2bad022670c14a05d2a3da8bda7d112803",
- "notes": "Add client and Import clients now live on the Clients page only; simpler new-client form (company page address is cleaned up automatically, profile box removed, login starts right after saving)."
+ "sha256": "45203e7501776dd060277d1cab13bbbd099f3b53f28943aaa05220e277dce9f7",
+ "sig": "63b8c269d722cabac80a8d22414f412f477efd403bc6b896f2522c2481b33a9750a5b3f1868cba99aadacc52b91b108f2dfe4766e97b656d5a7b3231add7560d",
+ "notes": "Connections waiting for approval now show per client: each client's list has its own header (name, account type) and its own approve/reject buttons, and also appears at the top of that client's Connections tab."
 }
