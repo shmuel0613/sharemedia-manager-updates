@@ -1,7 +1,7 @@
 {
- "version": 7,
+ "version": 8,
  "patch": "SMPatch.zip",
- "sha256": "45203e7501776dd060277d1cab13bbbd099f3b53f28943aaa05220e277dce9f7",
- "sig": "63b8c269d722cabac80a8d22414f412f477efd403bc6b896f2522c2481b33a9750a5b3f1868cba99aadacc52b91b108f2dfe4766e97b656d5a7b3231add7560d",
- "notes": "Connections waiting for approval now show per client: each client's list has its own header (name, account type) and its own approve/reject buttons, and also appears at the top of that client's Connections tab."
+ "sha256": "ffb55f6f59e7b741ea4a113981147b73b6b11ffbee7a51b21961429c5bdb4d0e",
+ "sig": "17fba1f9889b7fb33d55c6a7ec883cc762fd8452fc098e9b0213780dd1eee66958d4a76d4aaba3bd61287a187b0c2436b0809c3a2427e3df15e4decc7b0dbb01",
+ "notes": "Posting Agent now reads the Outlook approval emails: keeps clearly approved replies, matches each to the right client, schedules it on that client's page. New: Settings > Posts > Where approved posts come from; 'Also known as' field on each client."
 }
